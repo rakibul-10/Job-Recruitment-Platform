@@ -1,6 +1,3 @@
-# Tech Titans
-
----
 ## Team Members
 - Rakibul Islam (Team Leader)  
 - Saifur Rahman  

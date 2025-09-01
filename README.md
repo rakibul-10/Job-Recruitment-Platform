@@ -1,13 +1,6 @@
-## Team Members
-- Rakibul Islam (Team Leader)  
-- Saifur Rahman  
-- Atahar Uddin Pollock
-
-## Mentor  
-- fariha-bs1026
 
 ## Project Title
-**Tech Titans - Job Recruitment Platform**
+**Job Recruitment Platform**
 
 Tech Titans is a complete **Job Recruitment System** where **Job Seekers, Employers, and Admins** collaborate seamlessly.  
 The system mainly focuses on **Job Posting, Application Management, User Role Management, Company Profiles, and Category-wise Jobs**.  
